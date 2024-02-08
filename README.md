@@ -9,9 +9,13 @@ Here are some ideas to get you started:
 
 -->
 🔭 I’m currently working on AI specialization
+
 💬 Ask me anything about Python
+
 📫 Reach me: tanishvaidya20@gmail.com
+
 ⚡ Fun fact: I love building Games
+
 
 ## 🧰 Languages and Tools:
 <p align="center">
