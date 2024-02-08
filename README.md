@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Tanish
+### I'm Tanish (He/Him)
 ### A Computer Engineer, AI Major student at NMIMS
 
 <!--
@@ -8,11 +8,10 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on AI specialization
-- 💬 Ask me anything about Python
-- 📫 How to reach me: tanishvaidya20@gmail.com
-- ⚡ Fun fact: I love building Games
-- 😄 Pronouns: He/Him
+🔭 I’m currently working on AI specialization
+💬 Ask me anything about Python
+📫 Reach me: tanishvaidya20@gmail.com
+⚡ Fun fact: I love building Games
 
 ## 🧰 Languages and Tools:
 <p align="center">
