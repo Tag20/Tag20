@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tag20&theme=tokyonight)
