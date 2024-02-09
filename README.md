@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on AI specialization
 
-💬 Ask me anything about Python
+💬 Ask me anything about AI
 
 📫 Reach me: tanishvaidya20@gmail.com
 
