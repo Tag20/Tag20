@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tag20&theme=tokyonight)
+</p>
