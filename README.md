@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Tanish
+### I'm Tanish Vaidya
 ### A Computer Engineer, AI Major student at NMIMS
 
 <!--
