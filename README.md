@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Tanish (He/Him)
+### I'm Tanish
 ### A Computer Engineer, AI Major student at NMIMS
 
 <!--
